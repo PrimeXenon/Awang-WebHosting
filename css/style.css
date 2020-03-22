@@ -1,0 +1,51 @@
+nav{
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.header{
+    background-color: rgb(87,187,217);
+}
+
+.logo {
+    width: 150px;
+}
+
+.medsos{
+    width: 40px;
+}
+
+.login {
+    width: 27px;
+}
+
+.icon-feature {
+    width: 50px;
+}
+
+.footer {
+    background-color: rgb(54, 194, 220);
+}
+
+.footer p{
+    color: white;;
+}
+
+.content {
+    padding-bottom: 120px;
+}
+
+.ayam-bot {
+    /* width: 100%; */
+    background: url('../images/section-services-bottom.png'), url('../images/section-cloud-hosting-assets-top-1.png');
+     background-size: 100%, 100% 550px;
+    background-repeat: no-repeat;
+    background-position: bottom, top;
+    /* padding: 145px; */
+
+    /* display: flex;
+    flex-flow: row wrap;
+    justify-content: center; */
+}
+.feature-box{
+    background-color: rgb(155,212,243);
+}
